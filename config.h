@@ -5,6 +5,7 @@ static const Block blocks[] = {
     {"",        "xkb-switch",       1,                  0},
     {"",        "disk",             10,                 4},
     {"",        "volume",           0,                  9},
+    {"",        "battery",          5,                  6},
     {"",        "clock",            60,                 10},
 };
 
